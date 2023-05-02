@@ -11,6 +11,7 @@ public class Teachers {
     //qqq
     //hiii
 //wewe
+    //ertyuio
     //sdjfhasjd
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
