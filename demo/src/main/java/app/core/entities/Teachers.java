@@ -9,6 +9,7 @@ import lombok.*;
 @NoArgsConstructor
 public class Teachers {
 
+    //sdjfhasjdbfgjbae
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
