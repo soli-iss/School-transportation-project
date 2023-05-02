@@ -19,17 +19,14 @@ public class Teachers {
     @Column(nullable = false)
     private String firstName;
 
-    @Column(unique = true,nullable = false)
-    private String email;
-
     @Column(nullable = false)
     private String password;
 
-    @Column(nullable = false)
+    @Column(unique = true,nullable = false)
     private int phoneNumber;
 
     @Column(nullable = false)
-    private int classNumber ; //?
+    private int classNumber ;
 
 
 
